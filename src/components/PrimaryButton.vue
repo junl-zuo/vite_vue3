@@ -1,6 +1,6 @@
 <template>
   <el-button type="primary" @click="handleClick">
-    <slot>Primary Butto33312121呃呃呃n</slot>
+    <slot>Primary Butto33312121呃呃呃额外企鹅请问请问n</slot>
   </el-button>
 </template>
 
