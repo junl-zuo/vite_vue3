@@ -1,6 +1,6 @@
 <template>
   <el-button type="primary" @click="handleClick">
-    <slot>Primary Butto333n</slot>
+    <slot>Primary Butto33312121n</slot>
   </el-button>
 </template>
 
